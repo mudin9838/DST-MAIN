@@ -9,7 +9,7 @@ public class Program
         int[] a = { 2, 5, 10, 15, 17, 21, 23, 25, 27, 29 };
         Array.Sort(a);
 
-        Console.WriteLine(BinarySearch.BinarySearchs(a, 27));
+        Console.WriteLine(BinarySearch.BinarySearchs(a, 27)); //output 8
     }//
 }
 
